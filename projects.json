@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vfx1",
+    "title": "VFX Project 1",
+    "category": "Vfxs",
+    "type": "video",
+    "url": "projects/vfx1.mp4",
+    "thumbnail": ""
+  },
+  {
+    "id": "beat1",
+    "title": "Beat Project 1",
+    "category": "Beats",
+    "type": "audio",
+    "url": "projects/beat1.mp3",
+    "thumbnail": "projects/beat1_cover.jpg"
+  },
+  {
+    "id": "gfx1",
+    "title": "GFX Project 1",
+    "category": "Gfxs",
+    "type": "image",
+    "url": "projects/gfx1.jpg",
+    "thumbnail": ""
+  }
+]
